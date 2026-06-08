@@ -15,12 +15,8 @@ export const options: { link: string; src: string }[] = [
 
 export const productsLinks: { link: string; title: string }[] = [
 	{
-		title: "Dashboard",
-		link: "https://quest.cyobot.com/",
-	},
-	{
 		title: "RoboticsQuest",
-		link: "https://www.roboticsquest.com/",
+		link: "https://quest.cyobot.com/",
 	},
 ];
 
